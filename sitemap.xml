@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://gurkancamok.github.io/</loc>
-    <lastmod>2026-07-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://gurkancamok.github.io/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://gurkancamok.github.io/projects/insulin-assistant/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://gurkancamok.github.io/projects/clinical-research-hub/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://gurkancamok.github.io/projects/advisor-matching/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://gurkancamok.github.io/projects/glucoguide/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://gurkancamok.github.io/projects/woundguard/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://gurkancamok.github.io/projects/aegis/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://gurkancamok.github.io/evidence/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://gurkancamok.github.io/profile/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://gurkancamok.github.io/privacy/</loc><lastmod>2026-10-06</lastmod></url>
+  <url><loc>https://gurkancamok.github.io/insulin-infusion/</loc><lastmod>2026-08-07</lastmod></url>
 </urlset>
