@@ -68,4 +68,4 @@ with zipfile.ZipFile(archive) as z:
     for name in z.namelist():
         if name.endswith(('.html', '.py', '.js', '.md', '.txt')):
             assert removed_contact not in z.read(name), name
-print(f'Created and verified {len(files)+1}-file overlay archive and standalone preview.')
+print(f'Created and verified {len(z.namelist())}-file overlay archive and standalone preview.')
